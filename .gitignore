@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+android/build/
+core/build/
+desktop/build/
+/TextureHandlingSample.iml
